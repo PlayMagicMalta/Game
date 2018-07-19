@@ -2,7 +2,7 @@
   "active": true,
   "enemy": {
     "yaga": {
-      "health": 50,
+      "health": 100,
       "damage": 6,
       "accuracy": 0
     },
