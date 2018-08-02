@@ -21,16 +21,16 @@
       "damage": 7,
       "accuracy": 1
     },
+    "drone": {
+      "health": 30,
+      "damage": 10,
+      "accuracy": 0.3
+    },
     "robot": {
       "throw": 20,
       "health": 10,
       "damage": 15,
       "accuracy": 2.5
-    },
-    "drone": {
-      "health": 30,
-      "damage": 10,
-      "accuracy": 0.3
     },
     "mine": {
       "shield": 10,
