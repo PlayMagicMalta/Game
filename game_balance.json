@@ -3,8 +3,8 @@
   "enemy": {
     "yaga": {
       "headshot": 2,
-      "health": 50,
-      "damage": 6,
+      "health": 70,
+      "damage": 7,
       "accuracy": 0
     },
     "sniper": {
@@ -92,12 +92,12 @@
       "medium": {
         "money": 1.5,
         "health": 1.5,
-        "damage": 1.6,
+        "damage": 1.8,
         "accuracy": 0.75
       },
       "hard": {
         "money": 2,
-        "health": 1.7,
+        "health": 1.8,
         "damage": 4,
         "accuracy": 0.3
       }
