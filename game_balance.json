@@ -62,7 +62,7 @@
       "projectile_delay": 0.1,
       "patrol_radius": 15,
       "attack_radius": 10,
-      "health": 50,
+      "health": 75,
       "damage": 10,
       "accuracy": 1.2
     },
@@ -72,7 +72,7 @@
       "projectile_delay": 0.1,
       "patrol_radius": 20,
       "attack_radius": 15,
-      "health": 50,
+      "health": 75,
       "damage": 10,
       "accuracy": 1.2
     },
@@ -117,7 +117,7 @@
     "minotaur": {
       "price": 30000,
       "mag_size": 6,
-      "damage": 30,
+      "damage": 20,
       "fire_rate": 0.1,
       "bullet": {
         "speed": 0.9,
@@ -147,7 +147,7 @@
     "umbani": {
       "price": 90000,
       "mag_size": 12,
-      "damage": 40,
+      "damage": 30,
       "fire_rate": 0.18,
       "bullet": {
         "speed": 0.98,
@@ -157,7 +157,7 @@
     "carver": {
       "price": 120000,
       "mag_size": 10,
-      "damage": 30,
+      "damage": 25,
       "fire_rate": 0.15,
       "bullet": {
         "speed": 0.9,
