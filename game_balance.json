@@ -70,8 +70,8 @@
       "shield": 40,
       "reload_speed": 2,
       "projectile_delay": 0.1,
-      "patrol_radius": 20,
-      "attack_radius": 15,
+      "patrol_radius": 15,
+      "attack_radius": 10,
       "health": 90,
       "damage": 12.5,
       "accuracy": 0.8
