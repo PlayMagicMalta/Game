@@ -32,6 +32,11 @@
     },
     "robot": {
       "throw": 20,
+      "cooldown": {
+        "emp": 50,
+        "throw": 20,
+        "run": 15
+      },
       "health": 10,
       "damage": 15,
       "accuracy": 2.5
