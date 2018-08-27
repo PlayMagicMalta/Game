@@ -63,13 +63,13 @@
     },
     "turret": {
       "shield": 0,
-      "reload_speed": 4,
+      "reload_speed": 2,
       "projectile_delay": 0.1,
       "patrol_radius": 15,
       "attack_radius": 10,
-      "health": 75,
-      "damage": 10,
-      "accuracy": 1.2
+      "health": 90,
+      "damage": 8,
+      "accuracy": 0.8
     },
     "turret_enhanced": {
       "shield": 40,
