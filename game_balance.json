@@ -33,9 +33,9 @@
     "robot": {
       "throw": 20,
       "cooldown": {
-        "emp": 50,
+        "emp": 30,
         "throw": 20,
-        "run": 15
+        "run": 10
       },
       "health": 10,
       "damage": 15,
