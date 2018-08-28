@@ -33,7 +33,7 @@
     "robot": {
       "throw": 20,
       "cooldown": {
-        "emp": 30,
+        "emp": 35,
         "throw": 20,
         "run": 10
       },
