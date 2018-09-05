@@ -168,6 +168,16 @@
         "speed": 0.9,
         "shot": 1
       }
+    },
+    "freccia": {
+      "price": 60000,
+      "mag_size": 20,
+      "damage": 25,
+      "fire_rate": 0.15,
+      "bullet": {
+        "speed": 0.9,
+        "shot": 1
+      }
     }
   }
 }
