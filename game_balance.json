@@ -199,5 +199,63 @@
         "shot": 1
       }
     }
-  }
+  },
+  "perks": [
+    {
+      "name": null,
+      "description": null,
+      "cooldown": 0,
+      "duration": 0,
+      "bonus": 0
+    },
+    {
+      "name": null,
+      "description": null,
+      "cooldown": 0,
+      "duration": 0,
+      "bonus": 0
+    },
+    {
+      "name": null,
+      "description": null,
+      "cooldown": 0,
+      "duration": 0,
+      "bonus": 0
+    },
+    {
+      "name": null,
+      "description": null,
+      "cooldown": 0,
+      "duration": 0,
+      "bonus": 0
+    },
+    {
+      "name": null,
+      "description": null,
+      "cooldown": 0,
+      "duration": 0,
+      "bonus": 0
+    },
+    {
+      "name": null,
+      "description": null,
+      "cooldown": 0,
+      "duration": 0,
+      "bonus": 0
+    },
+    {
+      "name": null,
+      "description": null,
+      "cooldown": 0,
+      "duration": 0,
+      "bonus": 0
+    },
+    {
+      "name": null,
+      "description": null,
+      "cooldown": 0,
+      "duration": 0,
+      "bonus": 0
+    }
+  ]
 }
