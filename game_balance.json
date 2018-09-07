@@ -202,57 +202,57 @@
   },
   "perks": [
     {
-      "name": null,
-      "description": null,
+      "name": "Flash Reload",
+      "description": "No reload for the next 30 seconds. Reusable after 3 minutes.",
+      "cooldown": 180,
+      "duration": 30,
+      "bonus": 0
+    },
+    {
+      "name": "Double Shield",
+      "description": "Gain an extra layer of shield for 1 minute. Reusable after 2 minutes.",
+      "cooldown": 120,
+      "duration": 60,
+      "bonus": 0
+    },
+    {
+      "name": "Bouty Hunter",
+      "description": "Kills award 250 credits for the next 30 seconds. Usable only once per section." ,
       "cooldown": 0,
+      "duration": 30,
+      "bonus": 250
+    },
+    {
+      "name": "Invincible",
+      "description": "Player is invincible. Takes no damage from enemies for 30 seconds. Reusable after 5 minutes.",
+      "cooldown": 300,
+      "duration": 30,
+      "bonus": 0
+    },
+    {
+      "name": "Rage Mode On",
+      "description": "The next 3 normal shots give double damage. Reusable after 5 minutes.",
+      "cooldown": 300,
       "duration": 0,
       "bonus": 0
     },
     {
-      "name": null,
-      "description": null,
-      "cooldown": 0,
+      "name": "Deadeye",
+      "description": "For 30 seconds, headshots will instantly kill enemies. Reusable after 4 minutes.",
+      "cooldown": 240,
+      "duration": 30,
+      "bonus": 0
+    },
+    {
+      "name": "First Aider",
+      "description": "Player's health is fully recovered. Reusable after 5 minutes.",
+      "cooldown": 300,
       "duration": 0,
       "bonus": 0
     },
     {
-      "name": null,
-      "description": null,
-      "cooldown": 0,
-      "duration": 0,
-      "bonus": 0
-    },
-    {
-      "name": null,
-      "description": null,
-      "cooldown": 0,
-      "duration": 0,
-      "bonus": 0
-    },
-    {
-      "name": null,
-      "description": null,
-      "cooldown": 0,
-      "duration": 0,
-      "bonus": 0
-    },
-    {
-      "name": null,
-      "description": null,
-      "cooldown": 0,
-      "duration": 0,
-      "bonus": 0
-    },
-    {
-      "name": null,
-      "description": null,
-      "cooldown": 0,
-      "duration": 0,
-      "bonus": 0
-    },
-    {
-      "name": null,
-      "description": null,
+      "name": "Cutting Corners",
+      "description": "Resets all other perk's cooldown. Usable only once per section.",
       "cooldown": 0,
       "duration": 0,
       "bonus": 0
