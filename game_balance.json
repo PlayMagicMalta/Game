@@ -234,7 +234,7 @@
       "description": "The next 3 normal shots give double damage. Reusable after 5 minutes.",
       "cooldown": 300,
       "duration": 0,
-      "bonus": 0
+      "bonus": 3
     },
     {
       "name": "Deadeye",
@@ -248,7 +248,7 @@
       "description": "Player's health is fully recovered. Reusable after 5 minutes.",
       "cooldown": 300,
       "duration": 0,
-      "bonus": 0
+      "bonus": 100
     },
     {
       "name": "Cutting Corners",
