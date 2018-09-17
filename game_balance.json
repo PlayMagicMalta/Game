@@ -262,50 +262,42 @@
     {
         "name": "Bullet Miser",
         "description": "Reload no more than 10 times in one phase.",
-        "reward": 0,
         "progression": 0
     },
     {
         "name": "Shieldless",
         "description": "Complete 2 phases without using the panzer shield.",
-        "reward": 0,
         "progression": 0
     },
     {
         "name": "Tyrant",
         "description": "Kill 25 enemies using power shots.",
-        "reward": 0,
         "progression": 0
     },
     {
         "name": "Risk Taker",
         "description": "Complete 1 phase without taking cover once.",
-        "reward": 0,
         "progression": 0
     },
     {
         "name": "Survivor",
         "description": "Complete 1 phase without dying ",
-        "reward": 0,
         "progression": 0
     },
     {
         "name": "Eagle Eye",
         "description": "Kill 15 enemies in a row with a headshot.  ",
-        "reward": 0,
         "progression": 0
     },
     {
         "name": "5 of a Kind",
         "description": "Kill 15 enemies in a row with a headshot.  ",
-        "reward": 0,
         "progression": 0
     }
     ,
     {
         "name": "Sadist",
         "description": "Complete 1 phase without headshot kills.",
-        "reward": 0,
         "progression": 0
     }
   ]
