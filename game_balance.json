@@ -262,7 +262,7 @@
     {
         "name": "Bullet Miser",
         "description": "Reload no more than 10 times in one phase.",
-        "progression": 0
+        "progression": 10
     },
     {
         "name": "Shieldless",
