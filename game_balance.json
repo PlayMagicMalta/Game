@@ -223,7 +223,7 @@
     },
     {
       "name": "Bouty Hunter",
-      "description": "Kills award 250 credits for the next 30 seconds. Usable only once per section." ,
+      "description": "Kills award 250 credits for the next 30 seconds. Usable only once per section.",
       "cooldown": 0,
       "duration": 30,
       "bonus": 250
@@ -266,45 +266,44 @@
   ],
   "challenges": [
     {
-        "name": "Bullet Miser",
-        "description": "Reload no more than 10 times in one phase.",
-        "progression": 10
+      "name": "Bullet Miser",
+      "description": "Reload no more than 10 times in one phase.",
+      "progression": 10
     },
     {
-        "name": "Shieldless",
-        "description": "Complete 2 phases without using the panzer shield.",
-        "progression": 0
+      "name": "Shieldless",
+      "description": "Complete 2 phases without using the panzer shield.",
+      "progression": 0
     },
     {
-        "name": "Tyrant",
-        "description": "Kill 25 enemies using power shots.",
-        "progression": 0
+      "name": "Tyrant",
+      "description": "Kill 25 enemies using power shots.",
+      "progression": 0
     },
     {
-        "name": "Risk Taker",
-        "description": "Complete 1 phase without taking cover once.",
-        "progression": 0
+      "name": "Risk Taker",
+      "description": "Complete 1 phase without taking cover once.",
+      "progression": 0
     },
     {
-        "name": "Survivor",
-        "description": "Complete 1 phase without dying ",
-        "progression": 0
+      "name": "Survivor",
+      "description": "Complete 1 phase without dying ",
+      "progression": 0
     },
     {
-        "name": "Eagle Eye",
-        "description": "Kill 15 enemies in a row with a headshot.  ",
-        "progression": 0
+      "name": "Eagle Eye",
+      "description": "Kill 15 enemies in a row with a headshot.  ",
+      "progression": 0
     },
     {
-        "name": "5 of a Kind",
-        "description": "Kill 15 enemies in a row with a headshot.  ",
-        "progression": 0
-    }
-    ,
+      "name": "5 of a Kind",
+      "description": "Kill 15 enemies in a row with a headshot.  ",
+      "progression": 0
+    },
     {
-        "name": "Sadist",
-        "description": "Complete 1 phase without headshot kills.",
-        "progression": 0
+      "name": "Sadist",
+      "description": "Complete 1 phase without headshot kills.",
+      "progression": 0
     }
   ]
 }
