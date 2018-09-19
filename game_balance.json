@@ -2,14 +2,14 @@
   "active": true,
   "player": {
     "recharge": {
-      "shield": 20,
-      "health": 40
+      "shield": 10,
+      "health": 30
     },
     "multiplier": {
-      "sleep_walk": 2,
+      "sleep_walk": 0.5,
       "easy": 1,
-      "medium": 0.9,
-      "hard": 0.8
+      "medium": 1.1,
+      "hard": 1.2
     }
   },
   "enemy": {
