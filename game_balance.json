@@ -4,6 +4,12 @@
     "recharge": {
       "shield": 20,
       "health": 40
+    },
+    "multiplier": {
+      "sleep_walk": 2,
+      "easy": 1,
+      "medium": 0.9,
+      "hard": 0.8
     }
   },
   "enemy": {
