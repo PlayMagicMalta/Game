@@ -128,9 +128,9 @@
       },
       "hard": {
         "money": 2,
-        "health": 1.8,
-        "damage": 4,
-        "accuracy": 0.3
+        "health": 1.5,
+        "damage": 3,
+        "accuracy": 0.75
       }
     }
   },
