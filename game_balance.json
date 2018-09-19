@@ -122,9 +122,9 @@
       },
       "medium": {
         "money": 1.5,
-        "health": 1.5,
-        "damage": 2.3,
-        "accuracy": 0.75
+        "health": 1,
+        "damage": 2,
+        "accuracy": 2
       },
       "hard": {
         "money": 2,
