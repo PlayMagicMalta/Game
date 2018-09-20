@@ -140,7 +140,8 @@
         "damage": 3,
         "accuracy": 0.75
       }
-    }
+    },
+	"headshot_base_probability": 0
   },
   "weapon": {
     "stechkin": {
