@@ -58,6 +58,8 @@
       "accuracy": 2
     },
     "drone": {
+      "charge_duration": 1,
+      "shooting_duration": 1,
       "health": 60,
       "damage": 5,
       "accuracy": 0.5
