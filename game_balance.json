@@ -282,37 +282,37 @@
     {
       "name": "Shieldless",
       "description": "Complete 2 phases without using the panzer shield.",
-      "progression": 0
+      "progression": 2
     },
     {
       "name": "Tyrant",
       "description": "Kill 25 enemies using power shots.",
-      "progression": 0
+      "progression": 25
     },
     {
       "name": "Risk Taker",
       "description": "Complete 1 phase without taking cover once.",
-      "progression": 0
+      "progression": 1
     },
     {
       "name": "Survivor",
       "description": "Complete 1 phase without dying ",
-      "progression": 0
+      "progression": 1
     },
     {
       "name": "Eagle Eye",
       "description": "Kill 15 enemies in a row with a headshot.  ",
-      "progression": 0
+      "progression": 15
     },
     {
       "name": "5 of a Kind",
-      "description": "Kill 15 enemies in a row with a headshot.  ",
-      "progression": 0
+      "description": "Kill 3 enemies without getting hit once. Complete this 5 times.",
+      "progression": 5
     },
     {
       "name": "Sadist",
       "description": "Complete 1 phase without headshot kills.",
-      "progression": 0
+      "progression": 1
     }
   ]
 }
