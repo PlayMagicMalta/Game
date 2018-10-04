@@ -126,7 +126,7 @@
         "money": 1,
         "health": 0.75,
         "damage": 1,
-        "accuracy": 4
+        "accuracy": 2.5
       },
       "medium": {
         "money": 1.5,
