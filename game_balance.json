@@ -141,7 +141,7 @@
         "accuracy": 0.75
       }
     },
-	"headshot_base_probability": 0
+	"headshot_base_probability": 35
   },
   "weapon": {
     "stechkin": {
