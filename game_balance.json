@@ -262,7 +262,7 @@
       "name": "First Aider",
       "description": "Player's health is fully recovered. Reusable after 5 minutes.",
       "cooldown": 300,
-      "duration": 2,
+      "duration": 3,
       "bonus": 100
     },
     {
