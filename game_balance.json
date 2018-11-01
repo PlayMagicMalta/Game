@@ -231,7 +231,7 @@
       "bonus": 0
     },
     {
-      "name": "Bouty Hunter",
+      "name": "Bounty Hunter",
       "description": "Kills award 250 credits for the next 30 seconds. Usable only once per section.",
       "cooldown": 0,
       "duration": 30,
