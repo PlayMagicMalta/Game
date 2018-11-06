@@ -27,13 +27,13 @@
     "sniper": {
       "headshot": {
         "sleep_walk": 1,
-        "easy": 1,
-        "medium": 2,
-        "hard": 3
+        "easy": 2,
+        "medium": 3,
+        "hard": 4
       },
       "health": 30,
-      "damage": 12.5,
-      "accuracy": 0.8
+      "damage": 20,
+      "accuracy": 0.4
     },
     "soldier": {
       "headshot": {
@@ -49,13 +49,13 @@
     "heavy": {
       "headshot": {
         "sleep_walk": 1,
-        "easy": 2,
-        "medium": 3,
-        "hard": 4
+        "easy": 3,
+        "medium": 4,
+        "hard": 5
       },
-      "health": 85,
-      "damage": 5.5,
-      "accuracy": 1
+      "health": 115,
+      "damage": 8,
+      "accuracy":0.6
     },
     "drone": {
       "charge_duration": 2,
@@ -101,19 +101,19 @@
       "projectile_delay": 0.1,
       "patrol_radius": 15,
       "attack_radius": 10,
-      "health": 90,
-      "damage": 8,
+      "health": 150,
+      "damage": 10,
       "accuracy": 0.8
     },
     "turret_enhanced": {
       "shield": 40,
-      "reload_speed": 2,
+      "reload_speed": 1,
       "projectile_delay": 0.1,
       "patrol_radius": 15,
       "attack_radius": 10,
       "health": 90,
-      "damage": 8,
-      "accuracy": 0.8
+      "damage": 16,
+      "accuracy": 0.6
     },
     "multiplier": {
       "sleep_walk": {
