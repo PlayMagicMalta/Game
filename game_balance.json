@@ -246,7 +246,7 @@
     },
     {
       "name": "Rage Mode On",
-      "description": "The next 3 normal shots give double damage. Reusable after 5 minutes.",
+      "description": "For 30 seconds, normal shots deal double damage. Reusable after 5 minutes.",
       "cooldown": 300,
       "duration": 30,
       "bonus": 0
